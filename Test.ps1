@@ -1,1 +1,1 @@
-Write-verbose "hello" -Verbose
+Write-verbose "Hello Al the way from Github" -Verbose

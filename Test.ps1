@@ -1,0 +1,1 @@
+Write-verbose "hello" -Verbose
